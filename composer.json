@@ -1,6 +1,6 @@
 {
-    "name": "siriusphp/upload",
-    "description": "Framework agnostic upload library",
+    "name": "rossriley/upload",
+    "description": "Framework agnostic upload library - Forked from siriusphp for PHP 5.3 compatibility",
     "type": "library",
     "license": "MIT",
     "keywords": [
